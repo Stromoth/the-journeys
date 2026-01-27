@@ -32,9 +32,9 @@ the-journeys/
 │   │   └── personagens/
 │   │
 │   └── js/
-│       ├── dados.js         # Script principal
-│       ├── fichas.js        # Futuro sisterma de rolagem de dados
-│       ├── main.js          # Futuro sistema de fichas
+│       ├── dados.js         # Futuro sisterma de rolagem de dados
+│       ├── fichas.js        # Futuro sistema de fichas
+│       ├── main.js          # Script principal
 │       └── wiki.js          # Futuros sistemas de navegação
 │       
 ├── data/
