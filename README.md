@@ -24,6 +24,7 @@ the-journeys/
 │
 ├── assets/
 │   ├── css/
+│   │   ├── reset.css
 │   │   └── style.css       
 │   │
 │   ├── images/
