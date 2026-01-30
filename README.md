@@ -18,6 +18,9 @@ O site funciona como uma Wikipédia do universo do RPG. Além disso, planejo imp
 - Armazenamento de personagens
 - Outras ferramentas úteis para campanhas
 
+## Acesse o site
+https://stromoth.github.io/the-journeys/
+
 ## Estrutura de pastas
 ```
 the-journeys/
