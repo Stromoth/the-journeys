@@ -31,8 +31,9 @@ the-journeys/
 │   │   └── style.css       
 │   │
 │   ├── images/
+│   │   ├── cenarios/
 │   │   ├── criaturas/
-│   │   ├── locais/
+│   │   ├── items/
 │   │   └── personagens/
 │   │
 │   └── js/
